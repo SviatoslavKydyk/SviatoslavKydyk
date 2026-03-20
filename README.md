@@ -1,27 +1,28 @@
 # Hi there, I'm Sviatoslav 👋
-### Junior IT Specialist | Technik Programista (3rd Year) | Networking & CyberSec Aspirant
+### Technik Programista (3rd Year) | Aspiring Network & Security Engineer
 
-I am an ambitious IT student from Poland 🇵🇱 currently focusing on mastering networking and security to launch my career. I am actively preparing for the **INF.03** exam and the **Cisco CCNA (200-301)**.
+I am an ambitious IT student from Poland 🇵🇱 focused on mastering networking and Linux systems. I believe in learning by doing, which is why I run Linux on physical hardware and build labs to simulate real-world scenarios.
 
 ---
 
-## 🚀 2026 Goals & Progress
-- 📡 **Networking:** Following Jeremy’s IT Lab CCNA Course (Day 1/60)
-- 🎓 **Certs:** Working towards the Google IT Support Professional Certificate
-- 🐧 **Linux:** Transitioning to a CLI-first workflow (Ubuntu/Debian)
-- 🏎️ **Current Mission:** Landing a Junior/Help-Desk role to gain real-world experience
+## 🚀 2026 Roadmap & Progress
+- 📡 **Networking:** Working through **Jeremy’s IT Lab CCNA (200-301)** | [Current: Day 1]
+- 🐧 **Linux:** Hands-on administration on **antiX Linux** (Physical HDD) | [NDG Linux Unhatched]
+- 🎓 **Exams:** Preparing for the National Vocational Exam **INF.03** (Web & Databases)
+- 🏎️ **Mission:** Gaining experience through Helpdesk/Junior IT roles to fund my first car.
 
 ## 🛠️ My Tech Toolbox
-- **Networking:** Cisco Packet Tracer, Basic Subnetting, OSI Model
-- **Systems:** Windows 10/11, Active Directory (Fundamentals), Linux Bash
-- **Security:** TryHackMe (Pre-Security Path), Wireshark basics
-- **Development:** SQL (MySQL), HTML/CSS, Basic Python (for INF.03)
+- **Systems:** antiX Linux (Debian-based), Windows 10/11, Active Directory Fundamentals.
+- **Networking:** Cisco Packet Tracer, OSI Model, IPv4 Subnetting.
+- **Development:** SQL (MySQL), HTML5/CSS3, Basic PHP (for INF.03).
+- **Security:** TryHackMe (Pre-Security Path), Basic Wireshark.
 
-## 📂 Featured Lab Repositories
-- [CCNA-Labs](https://github.com/SviatoslavKydyk/CCNA-Labs) - My Packet Tracer topologies and config notes.
-- [Linux-Journey](https://github.com/SviatoslavKydyk/Linux-Journey) - Documentation of my Linux learning process.
+## 📂 Featured Repositories
+- [CCNA-Labs](https://github.com/SviatoslavKydyk/CCNA-Labs) – Cisco Packet Tracer topologies and config notes.
+- [Linux-Journey](https://github.com/SviatoslavKydyk/Linux-Journey) – Documentation of my CLI-first workflow and bash scripts.
+- [INF-03](https://github.com/SviatoslavKydyk/INF-03) – Web development and database solutions for my vocational degree.
 
 ## 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/sviatoslav-kydyk-703ba43b8](https://www.linkedin.com/in/sviatoslav-kydyk-703ba43b8)
-- **Email:** sviatoslav.kydyk@gmail.com
+- **Email:** [sviatoslav.kydyk@gmail.com](mailto:sviatoslav.kydyk@gmail.com)
 - **Location:** Wrocław / Jelcz-Laskowice, Poland 🇵🇱
