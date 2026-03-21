@@ -20,7 +20,7 @@ I am an ambitious IT student from Poland 🇵🇱 focused on mastering networkin
 ## 📂 Featured Repositories
 - [CCNA-Labs](https://github.com/SviatoslavKydyk/CCNA-Labs) – Cisco Packet Tracer topologies and config notes.
 - [Linux-Journey](https://github.com/SviatoslavKydyk/Linux-Journey) – Documentation of my CLI-first workflow and bash scripts.
-- [INF-03](https://github.com/SviatoslavKydyk/INF-03) – Web development and database solutions for my vocational degree.
+- [INF-03](https://github.com/SviatoslavKydyk/INF03) – Web development and database solutions for my vocational degree.
 
 ## 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/sviatoslav-kydyk-703ba43b8](https://www.linkedin.com/in/sviatoslav-kydyk-703ba43b8)
