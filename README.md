@@ -25,4 +25,4 @@ I am an ambitious IT student from Poland focused on mastering networking and Lin
 ## Let's Connect!
 - **LinkedIn:** [linkedin.com/in/sviatoslav-kydyk-703ba43b8](https://www.linkedin.com/in/sviatoslav-kydyk-703ba43b8)
 - **Email:** [sviatoslav.kydyk@gmail.com](mailto:sviatoslav.kydyk@gmail.com)
-- **Location:** Wrocław / Jelcz-Laskowice, Poland 🇵🇱
+- **Location:** Wrocław / Jelcz-Laskowice, Poland 
