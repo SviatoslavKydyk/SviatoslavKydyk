@@ -1,28 +1,45 @@
-# Hi there, I'm Sviatoslav 
-### Technik Programista (3rd Year) | Aspiring Network & Security Engineer
+# Sviatoslav Kydyk
 
-I am an ambitious IT student from Poland focused on mastering networking and Linux systems. I believe in learning by doing, which is why I run Linux on physical hardware and build labs to simulate real-world scenarios.
+**Technik Programista (3rd Year) | Aspiring Network and Security Specialist**
+
+IT student based in Poland, focused on Linux system administration, networking fundamentals, and hands-on security wargames. I build bare-metal and virtual lab environments to simulate real-world IT infrastructure.
 
 ---
 
-##  2026 Roadmap & Progress
-- **Networking:** Working through **Jeremy’s IT Lab CCNA (200-301)** | [Current: Day 1]
-- **Linux:** Hands-on administration on **antiX Linux** (Physical HDD) | [NDG Linux Unhatched]
-- **Exams:** Preparing for the National Vocational Exam **INF.03** (Web & Databases)
-- **Mission:** Gaining experience through Helpdesk/Junior IT roles to fund my first car.
+## 2026 Roadmap
 
-## My Tech Toolbox
-- **Systems:** antiX Linux (Debian-based), Windows 10/11, Active Directory Fundamentals.
-- **Networking:** Cisco Packet Tracer, OSI Model, IPv4 Subnetting.
-- **Development:** SQL (MySQL), HTML5/CSS3, Basic PHP (for INF.03).
-- **Security:** TryHackMe (Pre-Security Path), Basic Wireshark.
+| Area | Focus | Status |
+|------|-------|--------|
+| Networking | Jeremy's IT Lab CCNA (200-301) | In progress (Day 1) |
+| Linux and Security | OverTheWire Bandit write-ups, antiX Linux administration on physical hardware | In progress |
+| Vocational Certification | INF.03 (web applications, scripting, database administration) | Passed: 78% theory, 75% practical |
+| Career Goal | Helpdesk / Junior IT Support role to build professional experience | Seeking |
 
-## Featured Repositories
-- [CCNA-Labs](https://github.com/SviatoslavKydyk/CCNA-Labs) – Cisco Packet Tracer topologies and config notes.
-- [Linux-Journey](https://github.com/SviatoslavKydyk/Linux-Journey) – Documentation of my CLI-first workflow and bash scripts.
-- [INF-03](https://github.com/SviatoslavKydyk/INF03) – A curated archive of completed vocational exam solutions, demonstrating full-stack web and database proficiency.
+---
 
-## Let's Connect!
+## Technical Skills
+
+| Category | Tools and Technologies |
+|----------|------------------------|
+| Systems and CLI | antiX Linux (Debian-based), Windows 10/11, Bash utilities (`find`, `grep`, `file`, path handling), Active Directory fundamentals |
+| Networking | Cisco Packet Tracer, OSI model, IPv4 subnetting, SSH administration |
+| Web and Databases | MySQL, PHP, HTML5, CSS3 |
+| Security and Analysis | OverTheWire Bandit, TryHackMe (Pre-Security path), Wireshark fundamentals |
+
+---
+
+## Repositories
+
+| Repository | Description |
+|------------|-------------|
+| **Linux-Journey** | System administration write-ups, command-line labs, and OverTheWire Bandit documentation |
+| **INF03** | Archive of web application and MySQL database solutions for the Polish state vocational exam |
+| **CCNA-Labs** | Cisco Packet Tracer topologies and configuration notes |
+
+---
+
+## Contact
+
+- **Location:** Wroclaw / Jelcz-Laskowice, Poland
 - **LinkedIn:** [linkedin.com/in/sviatoslav-kydyk-703ba43b8](https://www.linkedin.com/in/sviatoslav-kydyk-703ba43b8)
 - **Email:** [sviatoslav.kydyk@gmail.com](mailto:sviatoslav.kydyk@gmail.com)
-- **Location:** Wrocław / Jelcz-Laskowice, Poland 
