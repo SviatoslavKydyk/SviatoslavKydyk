@@ -1,6 +1,6 @@
 # Sviatoslav Kydyk
 
-**Technik Programista (3rd Year) | Aspiring Network and Security Specialist**
+**Technik Programista (4th Year) | Aspiring Network and Security Specialist**
 
 IT student based in Poland, focused on Linux system administration, networking fundamentals, and hands-on security wargames. I build bare-metal and virtual lab environments to simulate real-world IT infrastructure.
 
